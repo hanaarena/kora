@@ -1,7 +1,7 @@
 {
   "name": "kora",
-  "version": "0.1.0",
-  "description": "kola",
+  "version": "0.1.1",
+  "description": "A Simple koa generator but easy to build with a simple REST",
   "main": "bin/kora",
   "bin": {
     "kora": "./bin/kora"

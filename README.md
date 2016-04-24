@@ -1,8 +1,8 @@
-[![NPM Version][npm-image]][npm-url]
+[![Kora Logo](https://raw.githubusercontent.com/hanaarena/kora/master/logo.png)]()
 
-## kora
+# kora [![NPM version](https://img.shields.io/npm/v/kora.svg)](https://npmjs.com/package/kora)
 
-kora is a **Koa** generator, but easy to generator node.js server with simple RESTful service.Also build-in babel support
+kora is a **Koa** generator, but easy to generate node.js server template,aim to make easy to create a website powered by Koa.
 
 ## Usage
 
