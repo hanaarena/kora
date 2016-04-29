@@ -1,3 +1,5 @@
+'use strict'
+
 const mongorito = require('mongorito')
 const Model = mongorito.Model
 

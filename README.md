@@ -2,7 +2,7 @@
 
 # kora [![NPM version](https://img.shields.io/npm/v/kora.svg)](https://npmjs.com/package/kora)
 
-kora is a **Koa** generator, but easy to generate node.js server template,aim to make easy to create a website powered by Koa.
+kora is a **Koa** generator, but easy to generate node.js server template,aim to make easy to create a rest service powered by Koa.
 
 ## Usage
 
